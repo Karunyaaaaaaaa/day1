@@ -1,0 +1,45 @@
+vbody {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.login-form {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-form a {
+    display: block; /* Make the links full-width */
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #007bff; /* Link color */
+}body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.login-form {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-form a {
+    display: block; /* Make the links full-width */
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #007bff; /* Link color */
+}
